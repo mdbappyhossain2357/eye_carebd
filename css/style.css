@@ -1,0 +1,120 @@
+*{
+margin: 0;
+padding: 0;
+}
+/* navbar code from start here  */
+header{
+background-color: brown;
+}
+.nav-item a{
+    color: white!important;
+    font-size: 25px;
+    }
+.nav-item a{
+      margin-left: 20px !important;
+        }
+.nav-item a:hover{
+color:  #164ea1!important;
+
+}
+
+/* navbar code from end here  */
+/* banner section code start from hare  */
+.b-contant{
+color: red;
+margin-top: 30px;
+}
+.b-video iframe{
+width: 100%;
+height: 100vh;
+}
+ /* button section code start from here   */
+.o-button{
+width: 100%;
+height: 100%;
+padding-top: 15px;
+ }
+
+.o-button,.oder-button button a{
+text-decoration: none;
+font-weight: bold;
+color: black;
+border: 1px solid black;
+padding: 15px;
+border-radius: 20px;
+
+} 
+.o-button,.oder-button button {
+display: flex;
+border: none;
+background: none;
+background: transparent;
+margin: 0px auto;
+}
+button a:hover{
+background: red;
+color: white;
+
+}
+  /* button section code end from here   */
+/* banner section code start from hare  */
+.contant{
+width: 100%;
+height: 100%;
+margin-top: 30px;
+}
+
+/* product section code start from here */
+.product{
+width: 100%;
+height: 100%;
+margin-top: 30px;
+}
+.p-product{
+  width: 100%;
+  height: 100%;
+  margin-top: 30px;
+ 
+}
+
+/* product section code end from here */
+/* footer section code start from here  */
+footer{
+width: 100%;
+height: 100%;
+margin-top: 40px;
+background: black;
+padding: 30px;
+}
+/* footer section code end from here  */
+/* order section code start from here */
+.oder{
+width: 100%;
+height: 100%;
+margin-top: 30px;
+}
+
+.oder div{
+margin-bottom: 30px;
+}
+.oder input{
+  padding: 10px 50px;
+  }
+ 
+/* order section code end from here */
+.oder .btn-order button a{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 20px;
+  
+}
+.oder .btn-order button{
+display: flex;
+border: none;
+background: none;
+background: transparent;
+
+}
